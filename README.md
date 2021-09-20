@@ -1,4 +1,4 @@
-# WebBasic
+# Web_Basic
 - html
 - jsp
 - index 개념
